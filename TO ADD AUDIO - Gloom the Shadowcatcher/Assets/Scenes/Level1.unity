@@ -4955,9 +4955,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d55abccddac56404297b41e1f097f7ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skate1: {fileID: 8300000, guid: 8d1ab5c7946a8e94dadcaf81b94132e4, type: 3}
+  skate1: {fileID: 8300000, guid: da6280e05a5393c4c9b1a7bbf7a5ef22, type: 3}
   shadowSightOn: {fileID: 8300000, guid: cf3b84549deb86947ae78fee77d3af39, type: 3}
-  shadowSightOff: {fileID: 8300000, guid: 3284e21f8637f0642bb4e066069f51bf, type: 3}
+  shadowSightOff: {fileID: 8300000, guid: cf3b84549deb86947ae78fee77d3af39, type: 3}
   shadowAttach: {fileID: 8300000, guid: 9e1b66eaae8ef4a4db59d7cb76d4e88d, type: 3}
   shadowMoveUnder: {fileID: 0}
   shadowMoveOver: {fileID: 0}
